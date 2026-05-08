@@ -34,8 +34,6 @@ Judgment sits at the center. Tools are transient.
 
 ### A snapshot
 
-![Anant's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anant-gupta-utexas&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent)
-
 ![snake animation](https://raw.githubusercontent.com/anant-gupta-utexas/anant-gupta-utexas/output/github-contribution-grid-snake.svg)
 
 ---
