@@ -10,13 +10,15 @@ Currently building **Personal OS** — a measurement-driven approach to agent sy
 
 ### What I'm building
 
-| Repo | What it is |
-|------|------------|
-| [**plumb**](https://github.com/anant-gupta-utexas/plumb) | Measurement framework for agent systems. Python + SQLite. Captures runs, spans, scores, examples. |
-| [**atlas**](https://github.com/anant-gupta-utexas/atlas) | Local-CLI agent orchestrator and metrics logger for a gated dev workflow. |
-| [**ai-workx**](https://github.com/anant-gupta-utexas/ai-workx) | Public Claude Code plugin marketplace — chief-of-staff, essentials, learning-coach, and more. |
-| [**slo-recommendation-engine**](https://github.com/anant-gupta-utexas/slo-recommendation-engine) | AI-assisted SLO backend. GNN-based reasoning over service-graph telemetry. |
-| [**python-scaffolding**](https://github.com/anant-gupta-utexas/python-scaffolding) · [**go-scaffolding**](https://github.com/anant-gupta-utexas/go-scaffolding) · [**react-scaffolding**](https://github.com/anant-gupta-utexas/react-scaffolding) | Clean Architecture templates I reach for when starting something new. |
+[**plumb**](https://github.com/anant-gupta-utexas/plumb) — measurement framework for agent systems. Python + SQLite. Captures runs, spans, scores, examples.
+
+[**atlas**](https://github.com/anant-gupta-utexas/atlas) — local-CLI agent orchestrator and metrics logger for a gated dev workflow.
+
+[**ai-workx**](https://github.com/anant-gupta-utexas/ai-workx) — public Claude Code plugin marketplace. Ships chief-of-staff, essentials, learning-coach, and more.
+
+[**slo-recommendation-engine**](https://github.com/anant-gupta-utexas/slo-recommendation-engine) — AI-assisted SLO backend. GNN-based reasoning over service-graph telemetry.
+
+[**python-scaffolding**](https://github.com/anant-gupta-utexas/python-scaffolding) · [**go-scaffolding**](https://github.com/anant-gupta-utexas/go-scaffolding) · [**react-scaffolding**](https://github.com/anant-gupta-utexas/react-scaffolding) — Clean Architecture templates I reach for when starting something new.
 
 ---
 
@@ -32,7 +34,7 @@ Judgment sits at the center. Tools are transient.
 
 ### A snapshot
 
-![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anant-gupta-utexas&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent)
+![Anant's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anant-gupta-utexas&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent)
 
 ![snake animation](https://raw.githubusercontent.com/anant-gupta-utexas/anant-gupta-utexas/output/github-contribution-grid-snake.svg)
 
