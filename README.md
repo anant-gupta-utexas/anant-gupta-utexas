@@ -32,12 +32,6 @@ Judgment sits at the center. Tools are transient.
 
 ---
 
-### A snapshot
-
-![snake animation](https://raw.githubusercontent.com/anant-gupta-utexas/anant-gupta-utexas/output/github-contribution-grid-snake.svg)
-
----
-
 ### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anant--utexas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-utexas/)
