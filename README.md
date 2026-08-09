@@ -6,6 +6,10 @@ I pick up a new hobby every year. Right now it's pottery. An earlier one left me
 
 The one that stuck is dancing. I've learned salsa and house, though most of it these days is unstructured, just moving to whatever rhythm the day has. You'll often catch me breaking into something while a coding agent grinds through a task in the other window. Which is probably why I keep ending up at festivals — Lightning in a Bottle this year, Ultra Miami before that, Electric Forest or EDC on the list for next.
 
+Chasing a thing I call **Personal OS**: agent systems where every claim about reliability has a number behind it. Mostly because I've shipped enough things I couldn't actually prove were working.
+
+Starting to write about how I actually use AI day to day. Adoption is wildly uneven right now — a few teams are compounding and most are still guessing — and almost nobody publishes the boring specifics of their setup. I want to, in enough detail that someone can copy it.
+
 ---
 
 ### What I'm building
@@ -17,12 +21,6 @@ The one that stuck is dancing. I've learned salsa and house, though most of it t
 [**atlas**](https://github.com/anant-gupta-utexas/atlas) — local-CLI agent orchestrator and metrics logger for a gated dev workflow.
 
 [**ai-workx**](https://github.com/anant-gupta-utexas/ai-workx) — the Claude Code plugins I use every day. Ships chief-of-staff, essentials, learning-coach, and more.
-
-📚 Instead of a reading list I keep a ~200-page personal wiki — ingest a source, distill it, cross-link it, re-weave the whole thing when it drifts. Stole the habit from Andrej Karpathy.
-
-🧭 Chasing a thing I call **Personal OS**: agent systems where every claim about reliability has a number behind it. Mostly because I've shipped enough things I couldn't actually prove were working.
-
-✍️ Starting to write about how I actually use AI day to day. Adoption is wildly uneven right now — a few teams are compounding and most are still guessing — and almost nobody publishes the boring specifics of their setup. I want to, in enough detail that someone can copy it.
 
 ---
 
